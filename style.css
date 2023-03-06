@@ -166,14 +166,14 @@ aside {
 
 .child1 {
     border: 5px #d0dfbe;
-    float: left;
+    float: right;
     width: 40%;
     margin: 20px;
 }
 
 .child2 {
     border: 5px #d0dfbe;
-    float: left;
+    float: right;
     width: 40%;
     margin: 20px;
 }
